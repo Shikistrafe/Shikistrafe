@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shikistrafe
 - 👀 I’m interested in web programming 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Java
 - 📫 How to reach me: @shikistrafe in Telegram
 <!--- - 💞️ I’m looking to collaborate on ...--->
 <!---
