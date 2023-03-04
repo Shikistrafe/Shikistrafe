@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Shikistrafe
-- 👀 I’m interested in web programming 
-- 🌱 I’m currently learning Web Extensions
+- 👀 I’m interested in app development
+- 🌱 I’m currently learning C#/Java/Kotlin
 - 📫 How to reach me: @shikistrafe in Telegram
