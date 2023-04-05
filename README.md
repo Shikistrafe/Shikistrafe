@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Shikistrafe
 - 👀 I’m interested in app development
--<!--🌱 I’m currently learning C#/Java/Kotlin-->
+- 🌱 I’m currently learning JS/TS, Node.js, React and Electron
 - 📫 How to reach me: @shikistrafe in Telegram
